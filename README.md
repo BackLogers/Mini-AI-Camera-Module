@@ -1,8 +1,8 @@
 # Mini AI Camera Module
 
-[![Mini AI Camera Module](https://raw.githubusercontent.com/BackLogers/Mini-AI-Camera-Module/refs/heads/main/images/module-image.jpg)](https://github.com/BackLogers/Mini-AI-Camera-Module/tree/main)
+[![Mini AI Camera Module](https://raw.githubusercontent.com/BackLogers/Mini-AI-Camera-Module/main/Images/module-image.png)](https://github.com/BackLogers/Mini-AI-Camera-Module/tree/main)
 
-## Project Description
+## Project Description 
 
 The **Mini AI Camera Module** is a compact platform based on the **ESP32-S3**, combining a standard visible-light camera with a **LiDAR** sensor. The module is designed as a low-cost solution for implementing simple AI algorithms, image recognition, and basic 3D depth perception.
 
@@ -38,6 +38,12 @@ This project includes:
 6. **Convenient USB and UART interfaces**  
    - Vertical **USB-C** port allows direct mounting to a robot chassis  
    - **SBU1 and SBU2** lines are exposed as **UART**, enabling easy integration with external devices
+
+7. **Easy to use and based on open-source libraries**  
+   The project is designed to be simple to integrate and develop with. It relies on well-maintained open-source libraries (including SparkFun drivers) as well as built-in components from the ESP-IDF framework.
+
+8. **Open-source project (Apache 2.0 License)**  
+   The entire project is fully open-source and released under the Apache 2.0 license, allowing both personal and commercial use with minimal restrictions.
 
 ## Repository Contents
 
